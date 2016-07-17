@@ -1,0 +1,9 @@
+<resources>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Game_002</string>
+    <string name="correct">Certo</string>
+    <string name="question">Escolha um número entre 0 e 10</string>
+    <string name="guess">Chute!</string>
+    <string name="high">Muito alto</string>
+    <string name="low">Muito baixo</string>
+</resources>
